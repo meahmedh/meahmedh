@@ -126,4 +126,4 @@ Senior Software Engineer building AI-powered tools, cloud-native platforms, Pyth
 [![Website](https://img.shields.io/badge/meahmedh.com-000000?style=flat&logo=safari&logoColor=white)](https://meahmedh.com)
 [![GitHub](https://img.shields.io/badge/GitHub-meahmedh-181717?style=flat&logo=github&logoColor=white)](https://github.com/meahmedh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed Hassan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/meahmedh)
-[![Email](https://img.shields.io/badge/Email-bh051120@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bh051120@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact@meahmedh.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@meahmedh.com)
