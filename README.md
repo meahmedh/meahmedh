@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07090d,45:0b3b47,100:00c9a7&text=Ahmed%20Hassan&fontColor=f2f6f7&fontSize=58&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Cloud%20Platforms&descAlignY=58&descSize=17&animation=fadeIn)
+![Ahmed Hassan — Software Engineer](./assets/engineering-orbit.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&pause=1100&color=26E7C5&center=true&vCenter=true&width=850&lines=Building+production+AI+systems;Shipping+typed%2C+observable+agentic+pipelines;Designing+cloud-native+platforms+that+scale;Turning+complex+workflows+into+useful+products)](https://git.io/typing-svg)
 
@@ -16,6 +16,12 @@
 </div>
 
 ## `01 / ENGINEERING PROFILE`
+
+<div align="center">
+
+`PRODUCT THINKING` → `SYSTEM DESIGN` → `PRODUCTION DELIVERY` → `MEASURED IMPACT`
+
+</div>
 
 I build **production AI systems, high-performance backends, cloud platforms, and developer tools**. My work spans agentic pipelines, RAG, full-stack products, multilingual media workflows, data systems, and infrastructure automation.
 
