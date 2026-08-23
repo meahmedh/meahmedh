@@ -1,93 +1,118 @@
-# Hi, I'm Ahmed 👋
+<div align="center">
 
-📍 Monterrey, Mexico &nbsp;·&nbsp; 🏢 Lenovo Global Technology &nbsp;·&nbsp; 🌐 [meahmedh.com](https://meahmedh.com)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07090d,45:0b3b47,100:00c9a7&text=Ahmed%20Hassan&fontColor=f2f6f7&fontSize=58&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Cloud%20Platforms&descAlignY=58&descSize=17&animation=fadeIn)
 
-Senior Software Engineer building AI-powered tools, cloud-native platforms, Python frameworks, and cross-platform mobile apps.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&pause=1100&color=26E7C5&center=true&vCenter=true&width=850&lines=Building+production+AI+systems;Shipping+typed%2C+observable+agentic+pipelines;Designing+cloud-native+platforms+that+scale;Turning+complex+workflows+into+useful+products)](https://git.io/typing-svg)
 
-<br/>
+<p>
+	<a href="https://meahmedh.com"><img src="https://img.shields.io/badge/Portfolio-07090d?style=for-the-badge&logo=safari&logoColor=26E7C5" alt="Portfolio"></a>
+	<a href="https://www.linkedin.com/in/meahmedh/"><img src="https://img.shields.io/badge/LinkedIn-07090d?style=for-the-badge&logo=linkedin&logoColor=69B9FF" alt="LinkedIn"></a>
+	<a href="mailto:contact@meahmedh.com"><img src="https://img.shields.io/badge/Email-07090d?style=for-the-badge&logo=gmail&logoColor=FF9D66" alt="Email"></a>
+	<a href="https://pypi.org/project/createsonline/"><img src="https://img.shields.io/badge/PyPI-createsonline-07090d?style=for-the-badge&logo=pypi&logoColor=D9FF6F" alt="createsonline on PyPI"></a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+`Monterrey, Mexico` · `Lenovo Global Technology` · `Open Source Builder`
 
----
+</div>
 
-## 🚀 What I'm Building
+## `01 / ENGINEERING PROFILE`
 
-- 🏗️ **[createsonline](https://pypi.org/project/createsonline/)** — AI-native Python web framework · ERP, commerce & data modules · published on PyPI
-- 🎙️ **[VoxLate](https://voxlate.meahmedh.com)** — Open-source AI video dubbing into 28+ languages · Whisper + NLLB-200 + XTTS-2 · free, no login
-- 📄 **[PDFCraft](https://pdf.meahmedh.com)** — Browser-based PDF toolkit · merge, split, compress, convert · free, no account
-- 📝 **[Resume Builder](https://resume.meahmedh.com)** — ATS-focused resume generator with keyword optimisation and PDF export
-- 🛍️ **[MejorStyle](https://mejorstyle.com)** — Full ecommerce platform · catalog, cart, checkout, order management, CI/CD
-- 🌐 **[createsonline.com](https://createsonline.com)** — Headless CMS with visual page builder, block engine & ecommerce integration
-- 🩺 **The Dietary Health** — Healthcare platform · nutritionist profiles, health blogs, appointment scheduling
+I build **production AI systems, high-performance backends, cloud platforms, and developer tools**. My work spans agentic pipelines, RAG, full-stack products, multilingual media workflows, data systems, and infrastructure automation.
 
----
+```text
+design     → typed boundaries, clean architecture, explicit failure modes
+build      → async services, agent workflows, APIs, data and product surfaces
+operate    → Docker, CI/CD, observability, security and multi-cloud deployment
+optimize   → measured P95/P99 latency, token budgets, caching and parallelism
+```
 
-## 🧠 Stack
+> Current focus: reliable AI agents that combine structured tools, retrieval, human review, and production-grade observability.
 
-**AI & Agents**&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A574?style=flat&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
+## `02 / SYSTEMS I SHIP`
 
-**Backend**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+<table>
+	<tr>
+		<td width="50%" valign="top"><h3>🏗️ <a href="https://pypi.org/project/createsonline/">createsonline</a></h3><p>AI-native Python platform for CMS, ERP, commerce, agents, and data applications.</p><code>Python</code> <code>ASGI</code> <code>PostgreSQL</code> <code>LangChain</code></td>
+		<td width="50%" valign="top"><h3>🎙️ <a href="https://voxlate.meahmedh.com">VoxLate</a></h3><p>Open-source AI video dubbing in 28+ languages with speech, translation, and voice pipelines.</p><code>Whisper</code> <code>NLLB-200</code> <code>XTTS-2</code> <code>FFmpeg</code></td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><h3>📄 <a href="https://pdf.meahmedh.com">PDFCraft</a></h3><p>Privacy-focused browser PDF toolkit for merging, splitting, compression, and conversion.</p><code>Python</code> <code>PDF</code> <code>Docker</code> <code>Web</code></td>
+		<td width="50%" valign="top"><h3>📝 <a href="https://resume.meahmedh.com">Resume Builder</a></h3><p>ATS-focused resume generation, keyword optimization, and professional PDF export.</p><code>AI</code> <code>NLP</code> <code>PDF</code> <code>FastAPI</code></td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><h3>🛍️ <a href="https://mejorstyle.com">MejorStyle</a></h3><p>Production ecommerce platform with catalog, cart, checkout, orders, SEO, and CI/CD.</p><code>Commerce</code> <code>Python</code> <code>PostgreSQL</code> <code>Traefik</code></td>
+		<td width="50%" valign="top"><h3>🥗 <a href="https://thedietaryhealth.com">The Dietary Health</a></h3><p>Evidence-led nutrition journal and publishing platform for clinicians and researchers.</p><code>CMS</code> <code>Health</code> <code>Publishing</code> <code>Docker</code></td>
+	</tr>
+</table>
 
-**Frontend**&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<div align="center"><a href="https://meahmedh.com/portfolio"><img src="https://img.shields.io/badge/Explore_All_Projects-26E7C5?style=for-the-badge&logo=github&logoColor=07110f" alt="Explore all projects"></a></div>
 
-**Mobile**&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+## `03 / TECHNOLOGY MAP`
 
-**Databases**&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+<div align="center">
 
-**Cloud & DevOps**&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+### AI · Agents · Data
 
----
+[![AI and data stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,postgres,redis&theme=dark)](https://skillicons.dev)
 
-## 🎓 Certifications (24+)
+![LangGraph](https://img.shields.io/badge/LangGraph-0B3B47?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Hybrid_Search-087E72?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Tool_Servers-1675B8?style=flat-square)
+
+### Product Engineering
+
+[![Product stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,fastapi,django,dotnet,go,rust,flutter,swift&theme=dark)](https://skillicons.dev)
+
+### Platform · Cloud · Delivery
+
+[![Platform stack](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,azure,gcp,linux,nginx,grafana&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## `04 / HOW I BUILD AI SYSTEMS`
+
+```mermaid
+flowchart LR
+		U[Product workflow] --> O[Orchestrator]
+		O --> R[Hybrid retrieval]
+		O --> T[Typed tools]
+		O --> A[Agent routing]
+		R --> C[Grounded context]
+		T --> V[Validated actions]
+		C --> A
+		V --> H{Human review?}
+		A --> H
+		H -->|approve| P[Production output]
+		H -->|revise| O
+		P --> M[Traces · evals · cost · latency]
+		M --> O
+```
+
+- **Async-first:** parallel I/O, streaming, bounded concurrency, explicit timeouts.
+- **Typed boundaries:** Pydantic v2, strict TypeScript, validated tool schemas.
+- **Observable by default:** structured logs, OpenTelemetry traces, usage and cost tracking.
+- **Measured optimization:** improve P95/P99 latency, caching, and batch behavior.
+- **Safe autonomy:** retries, idempotency, approval gates, auditable tool execution.
+
+## `05 / OPEN-SOURCE SIGNAL`
+
+<div align="center">
+
+<img height="175" alt="Ahmed's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meahmedh&theme=github_dark">
+<img height="175" alt="Ahmed's repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meahmedh&theme=github_dark">
+
+<img width="720" alt="Ahmed's GitHub contribution profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meahmedh&theme=github_dark">
+
+</div>
+
+## `06 / CREDENTIALS`
+
+<details>
+<summary><strong>🎓 24+ verified certifications across AI, software, cloud, networking, mobile, and analytics</strong></summary>
+<br>
 
 **Cisco Networking Academy**
 
@@ -135,21 +160,26 @@ Senior Software Engineer building AI-powered tools, cloud-native platforms, Pyth
 
 <a href="https://www.efset.org/cert/idz13X"><img src="https://cdn.efset.org/efset-widget/img/v2/social-media/2part/74.jpg" height="110" alt="EF SET C2 Proficient"></a>
 
----
+</details>
 
-## 🌍 Languages
+## `07 / LANGUAGES & COLLABORATION`
 
-![English](https://img.shields.io/badge/English-C2_Proficient-2E86AB?style=flat)
-![Arabic](https://img.shields.io/badge/Arabic-Advanced-27AE60?style=flat)
-![Spanish](https://img.shields.io/badge/Spanish-Intermediate-E67E22?style=flat)
-![Urdu](https://img.shields.io/badge/Urdu-Native-8E44AD?style=flat)
-![Punjabi](https://img.shields.io/badge/Punjabi-Native-C0392B?style=flat)
+![English](https://img.shields.io/badge/English-C2_Proficient-1675B8?style=flat-square)
+![Arabic](https://img.shields.io/badge/Arabic-Advanced-087E72?style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-Intermediate-BD5527?style=flat-square)
+![Urdu](https://img.shields.io/badge/Urdu-Native-6E4BAA?style=flat-square)
+![Punjabi](https://img.shields.io/badge/Punjabi-Native-9A3348?style=flat-square)
 
----
+I enjoy collaborating on **production AI agents, developer platforms, RAG, MCP servers, automation systems, data products, and open-source infrastructure**.
 
-## 🤝 Connect
+<div align="center">
 
-[![Website](https://img.shields.io/badge/meahmedh.com-000000?style=flat&logo=safari&logoColor=white)](https://meahmedh.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meahmedh/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/meahmedh)
-[![Email](https://img.shields.io/badge/contact%40meahmedh.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@meahmedh.com)
+### Let's build something useful.
+
+[![Website](https://img.shields.io/badge/meahmedh.com-26E7C5?style=for-the-badge&logo=safari&logoColor=07110F)](https://meahmedh.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-69B9FF?style=for-the-badge&logo=linkedin&logoColor=07111A)](https://www.linkedin.com/in/meahmedh/)
+[![Email](https://img.shields.io/badge/contact@meahmedh.com-FF9D66?style=for-the-badge&logo=gmail&logoColor=241006)](mailto:contact@meahmedh.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00c9a7,55:0b3b47,100:07090d)
+
+</div>
