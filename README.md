@@ -1,11 +1,9 @@
 <div align="center">
 
-![Ahmed Hassan — Software Engineer](./assets/engineering-orbit.svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&pause=1100&color=26E7C5&center=true&vCenter=true&width=850&lines=Building+production+AI+systems;Shipping+typed%2C+observable+agentic+pipelines;Designing+cloud-native+platforms+that+scale;Turning+complex+workflows+into+useful+products)](https://git.io/typing-svg)
+<a href="https://meahmedh.com"><img src="./assets/hero.svg" width="100%" alt="Ahmed Hassan builds AI products, business platforms, developer frameworks and automation that ship to production"></a>
 
 <p>
-	<a href="https://meahmedh.com"><img src="https://img.shields.io/badge/Portfolio-07090d?style=for-the-badge&logo=safari&logoColor=26E7C5" alt="Portfolio"></a>
+	<a href="https://meahmedh.com"><img src="https://img.shields.io/badge/Portfolio-07090d?style=for-the-badge&logo=safari&logoColor=77F4DF" alt="Portfolio"></a>
 	<a href="https://www.linkedin.com/in/meahmedh/"><img src="https://img.shields.io/badge/LinkedIn-07090d?style=for-the-badge&logo=linkedin&logoColor=69B9FF" alt="LinkedIn"></a>
 	<a href="mailto:contact@meahmedh.com"><img src="https://img.shields.io/badge/Email-07090d?style=for-the-badge&logo=gmail&logoColor=FF9D66" alt="Email"></a>
 	<a href="https://pypi.org/project/createsonline/"><img src="https://img.shields.io/badge/PyPI-createsonline-07090d?style=for-the-badge&logo=pypi&logoColor=D9FF6F" alt="createsonline on PyPI"></a>
@@ -15,7 +13,7 @@
 
 </div>
 
-## `01 / ENGINEERING PROFILE`
+<img src="./assets/section-01.svg" width="100%" alt="01 / ENGINEERING PROFILE">
 
 <div align="center">
 
@@ -23,7 +21,7 @@
 
 </div>
 
-I build **production AI systems, high-performance backends, cloud platforms, and developer tools**. My work spans agentic pipelines, RAG, full-stack products, multilingual media workflows, data systems, and infrastructure automation.
+I design, build and run **production software end to end**: the product, the platform under it, and the pipeline that deploys it. My work spans AI agents and retrieval, business platforms, multilingual media workflows, developer frameworks and cloud infrastructure. Eight of my products are live today.
 
 ```text
 design     → typed boundaries, clean architecture, explicit failure modes
@@ -32,28 +30,34 @@ operate    → Docker, CI/CD, observability, security and multi-cloud deployment
 optimize   → measured P95/P99 latency, token budgets, caching and parallelism
 ```
 
-> Current focus: reliable AI agents that combine structured tools, retrieval, human review, and production-grade observability.
+> Current focus: AI agents a business can rely on, with structured tools, retrieval, human review and production-grade observability.
 
-## `02 / SYSTEMS I SHIP`
+<img src="./assets/section-02.svg" width="100%" alt="02 / PRODUCTS IN PRODUCTION">
+
+<a href="https://createsonline.com"><img src="./assets/card-createsonline.svg" width="100%" alt="CreatesOnline: one platform to run a business, with CMS, e-commerce, ERP, marketing, AI agents and automations"></a>
+
+<a href="https://dubnivo.com"><img src="./assets/card-dubnivo.svg" width="100%" alt="Dubnivo: dubs a video into 17 languages in the speaker's own cloned voice"></a>
+
+<a href="https://fileixa.com"><img src="./assets/card-fileixa.svg" width="100%" alt="Fileixa: free online PDF, image and file tools with AI enhancement"></a>
 
 <table>
 	<tr>
-		<td width="50%" valign="top"><h3>🏗️ <a href="https://pypi.org/project/createsonline/">createsonline</a></h3><p>AI-native Python platform for CMS, ERP, commerce, agents, and data applications.</p><code>Python</code> <code>ASGI</code> <code>PostgreSQL</code> <code>LangChain</code></td>
-		<td width="50%" valign="top"><h3>🎙️ <a href="https://voxlate.meahmedh.com">VoxLate</a></h3><p>Open-source AI video dubbing in 28+ languages with speech, translation, and voice pipelines.</p><code>Whisper</code> <code>NLLB-200</code> <code>XTTS-2</code> <code>FFmpeg</code></td>
+		<td width="50%" valign="top"><h3>🏗️ <a href="https://pypi.org/project/createsonline/">createsonline framework</a></h3><p>The AI-native Python framework behind my platforms: ASGI server, routing, admin, role-aware access and built-in AI copilots.</p><code>Python</code> <code>ASGI</code> <code>PostgreSQL</code> <code>PyPI</code></td>
+		<td width="50%" valign="top"><h3>🛍️ <a href="https://mejorstyle.com">MejorStyle</a></h3><p>Production online store with catalog, cart, checkout, orders, SEO and CI/CD.</p><code>Commerce</code> <code>Python</code> <code>PostgreSQL</code> <code>Traefik</code></td>
 	</tr>
 	<tr>
-		<td width="50%" valign="top"><h3>📄 <a href="https://pdf.meahmedh.com">PDFCraft</a></h3><p>Privacy-focused browser PDF toolkit for merging, splitting, compression, and conversion.</p><code>Python</code> <code>PDF</code> <code>Docker</code> <code>Web</code></td>
-		<td width="50%" valign="top"><h3>📝 <a href="https://resume.meahmedh.com">Resume Builder</a></h3><p>ATS-focused resume generation, keyword optimization, and professional PDF export.</p><code>AI</code> <code>NLP</code> <code>PDF</code> <code>FastAPI</code></td>
+		<td width="50%" valign="top"><h3>🥗 <a href="https://thedietaryhealth.com">The Dietary Health</a></h3><p>Nutrition journal and publishing platform for health professionals.</p><code>CMS</code> <code>Health</code> <code>Publishing</code> <code>Docker</code></td>
+		<td width="50%" valign="top"><h3>🧭 <a href="https://meahmedh.com/ai-tools">AI Tools Directory</a></h3><p>Searchable catalog of 2,865+ AI tools across 13 categories, in four languages.</p><code>Search</code> <code>SEO</code> <code>EN · ES · AR · DE</code></td>
 	</tr>
 	<tr>
-		<td width="50%" valign="top"><h3>🛍️ <a href="https://mejorstyle.com">MejorStyle</a></h3><p>Production ecommerce platform with catalog, cart, checkout, orders, SEO, and CI/CD.</p><code>Commerce</code> <code>Python</code> <code>PostgreSQL</code> <code>Traefik</code></td>
-		<td width="50%" valign="top"><h3>🥗 <a href="https://thedietaryhealth.com">The Dietary Health</a></h3><p>Evidence-led nutrition journal and publishing platform for clinicians and researchers.</p><code>CMS</code> <code>Health</code> <code>Publishing</code> <code>Docker</code></td>
+		<td width="50%" valign="top"><h3>📝 <a href="https://resume.meahmedh.com">Resume Builder</a></h3><p>ATS-focused resumes for specific job applications, with PDF export.</p><code>Python</code> <code>PDF</code> <code>Docker</code></td>
+		<td width="50%" valign="top"><h3>🌐 <a href="https://meahmedh.com/portfolio">Everything else</a></h3><p>The full list, with filters for AI, platforms and tools, is on my portfolio.</p><code>meahmedh.com/portfolio</code></td>
 	</tr>
 </table>
 
-<div align="center"><a href="https://meahmedh.com/portfolio"><img src="https://img.shields.io/badge/Explore_All_Projects-26E7C5?style=for-the-badge&logo=github&logoColor=07110f" alt="Explore all projects"></a></div>
+<div align="center"><a href="https://meahmedh.com/portfolio"><img src="https://img.shields.io/badge/Explore_All_Projects-77F4DF?style=for-the-badge&logo=github&logoColor=07110f" alt="Explore all projects"></a></div>
 
-## `03 / TECHNOLOGY MAP`
+<img src="./assets/section-03.svg" width="100%" alt="03 / TECHNOLOGY MAP">
 
 <div align="center">
 
@@ -63,10 +67,10 @@ optimize   → measured P95/P99 latency, token budgets, caching and parallelism
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-0B3B47?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-Tool_use_%C2%B7_Streaming-191919?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Hybrid_Search-087E72?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-Tool_Servers-1675B8?style=flat-square)
+![Speech](https://img.shields.io/badge/Speech-Recognition_%C2%B7_Voice_cloning-6E4BAA?style=flat-square)
 
 ### Product Engineering
 
@@ -74,36 +78,31 @@ optimize   → measured P95/P99 latency, token budgets, caching and parallelism
 
 ### Platform · Cloud · Delivery
 
-[![Platform stack](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,azure,gcp,linux,nginx,grafana&theme=dark)](https://skillicons.dev)
+[![Platform stack](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,azure,gcp,cloudflare,linux,nginx,grafana&theme=dark)](https://skillicons.dev)
 
 </div>
 
-## `04 / HOW I BUILD AI SYSTEMS`
+<img src="./assets/section-04.svg" width="100%" alt="04 / HOW I BUILD AI SYSTEMS">
 
-```mermaid
-flowchart LR
-		U[Product workflow] --> O[Orchestrator]
-		O --> R[Hybrid retrieval]
-		O --> T[Typed tools]
-		O --> A[Agent routing]
-		R --> C[Grounded context]
-		T --> V[Validated actions]
-		C --> A
-		V --> H{Human review?}
-		A --> H
-		H -->|approve| P[Production output]
-		H -->|revise| O
-		P --> M[Traces · evals · cost · latency]
-		M --> O
-```
+<img src="./assets/ai-systems.svg" width="100%" alt="A product workflow goes to an orchestrator, which uses hybrid retrieval, typed tools and agent routing. Grounded context and validated actions pass human review before production. Traces, evals, cost and latency feed back to the orchestrator.">
 
 - **Async-first:** parallel I/O, streaming, bounded concurrency, explicit timeouts.
 - **Typed boundaries:** Pydantic v2, strict TypeScript, validated tool schemas.
 - **Observable by default:** structured logs, OpenTelemetry traces, usage and cost tracking.
-- **Measured optimization:** improve P95/P99 latency, caching, and batch behavior.
+- **Measured optimization:** improve P95/P99 latency, caching and batch behavior.
 - **Safe autonomy:** retries, idempotency, approval gates, auditable tool execution.
 
-## `05 / OPEN-SOURCE SIGNAL`
+<img src="./assets/section-05.svg" width="100%" alt="05 / HOW I SHIP">
+
+<img src="./assets/delivery.svg" width="100%" alt="git push, lint and tests, Docker build, deploy, health check, live">
+
+- **One push deploys:** every product ships from `main` through the same pipeline.
+- **Own runners:** checks and builds run on my servers, on the same ARM64 architecture as production.
+- **Containers everywhere:** Docker Compose behind Traefik, with TLS issued automatically.
+- **Nothing public by accident:** origins accept traffic only from the CDN; internal APIs stay on private networks.
+- **Verified, not assumed:** each deploy ends with a health check of the API and the workers.
+
+<img src="./assets/section-06.svg" width="100%" alt="06 / OPEN-SOURCE SIGNAL">
 
 <div align="center">
 
@@ -114,7 +113,7 @@ flowchart LR
 
 </div>
 
-## `06 / CREDENTIALS`
+<img src="./assets/section-07.svg" width="100%" alt="07 / CREDENTIALS">
 
 <details>
 <summary><strong>🎓 24+ verified certifications across AI, software, cloud, networking, mobile, and analytics</strong></summary>
@@ -168,7 +167,7 @@ flowchart LR
 
 </details>
 
-## `07 / LANGUAGES & COLLABORATION`
+<img src="./assets/section-08.svg" width="100%" alt="08 / LANGUAGES & COLLABORATION">
 
 ![English](https://img.shields.io/badge/English-C2_Proficient-1675B8?style=flat-square)
 ![Arabic](https://img.shields.io/badge/Arabic-Advanced-087E72?style=flat-square)
@@ -176,16 +175,16 @@ flowchart LR
 ![Urdu](https://img.shields.io/badge/Urdu-Native-6E4BAA?style=flat-square)
 ![Punjabi](https://img.shields.io/badge/Punjabi-Native-9A3348?style=flat-square)
 
-I enjoy collaborating on **production AI agents, developer platforms, RAG, MCP servers, automation systems, data products, and open-source infrastructure**.
+I enjoy collaborating on **production AI agents, business platforms, developer frameworks, RAG, MCP servers, automation systems and open-source infrastructure**.
 
 <div align="center">
 
 ### Let's build something useful.
 
-[![Website](https://img.shields.io/badge/meahmedh.com-26E7C5?style=for-the-badge&logo=safari&logoColor=07110F)](https://meahmedh.com)
+[![Website](https://img.shields.io/badge/meahmedh.com-77F4DF?style=for-the-badge&logo=safari&logoColor=07110F)](https://meahmedh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-69B9FF?style=for-the-badge&logo=linkedin&logoColor=07111A)](https://www.linkedin.com/in/meahmedh/)
 [![Email](https://img.shields.io/badge/contact@meahmedh.com-FF9D66?style=for-the-badge&logo=gmail&logoColor=241006)](mailto:contact@meahmedh.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00c9a7,55:0b3b47,100:07090d)
+<img src="./assets/footer.svg" width="100%" alt="Built and run by Ahmed Hassan, meahmedh.com">
 
 </div>
