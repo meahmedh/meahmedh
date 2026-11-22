@@ -36,7 +36,7 @@ optimize   → measured P95/P99 latency, token budgets, caching and parallelism
 
 <a href="https://createsonline.com"><img src="./assets/card-createsonline.svg" width="100%" alt="CreatesOnline: one platform to run a business, with CMS, e-commerce, ERP, marketing, AI agents and automations"></a>
 
-<a href="https://dubnivo.com"><img src="./assets/card-dubnivo.svg" width="100%" alt="Dubnivo: dubs a video into 17 languages in the speaker's own cloned voice"></a>
+<a href="https://dubnivo.com"><img src="./assets/card-dubnivo.svg" width="100%" alt="Dubnivo: AI video dubbing into 18 languages, a natural AI voice for each speaker"></a>
 
 <a href="https://fileixa.com"><img src="./assets/card-fileixa.svg" width="100%" alt="Fileixa: free online PDF, image and file tools with AI enhancement"></a>
 
